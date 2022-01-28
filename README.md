@@ -1,7 +1,5 @@
 # 谷歌浏览器工具箱
 
-[TOC]
-
 收集那些我正在使用 Chrome 扩展程序，方便后续查找方便，也分享给大家。
 
 谷歌商店地址：[Chrome 网上应用店 - 扩展程序](https://chrome.google.com/webstore/category/extensions?hl=zh-CN)
@@ -34,6 +32,6 @@
 
 ## Smart TOC
 
-对于经常阅读文章的朋友来说，我们经常使用目录去快速了解文章的内容。但并不是每篇文章都有目录，这个插件可以帮助我们生成文章的目录，非常方便。
+对于经常阅读文章的朋友来说，我们经常使用目录去快速了解文章的内容。但并不是每篇文章都有目录，这个插件可以帮助我们生成文章的目录，非常方便。就像 Github 的 README 本身不支持生成目录，于是你没办法快速知道本文列举了哪些扩展插件，但你通过这个插件就可以快速知道，赶紧试试吧！
 
 安装地址：[Smart TOC - Chrome 网上应用店](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba?hl=zh-CN)
