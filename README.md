@@ -39,6 +39,7 @@
 * [1Password - 密码管理软件](https://1password.com/zh-cn/)
 * [Spectacle - 窗口分屏软件](https://www.spectacleapp.com/)
 * [Alfred - 全局搜索软件](https://www.alfredapp.com/)
+* [Microsoft To Do - 清单软件](https://todo.microsoft.com/tasks/)
 
 <a id="sublime-%E6%8F%92%E4%BB%B6"></a>
 ## Sublime 插件
